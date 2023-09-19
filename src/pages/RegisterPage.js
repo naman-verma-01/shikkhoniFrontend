@@ -71,7 +71,7 @@ export default function RegisterPage() {
             localStorage.setItem('authStatus', "true")
             localStorage.setItem('userId', res._id)
 
-            window.location.assign("http://localhost:3000/dashboard/app")
+            window.location.assign("https://shikkhoni-frontend.vercel.app/dashboard/app")
 
 
         }
