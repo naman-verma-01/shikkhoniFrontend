@@ -32,7 +32,7 @@ The main .js files
   cd ./src/routes.js
 ```
 
-### Directory with all main pages of this project - [HomePage/Dashboard Page, New Customer Page]
+### Directory with all main pages of this project - [HomePage/Dashboard Page, New File Page, Login/Register Page]
 ```bash
   cd ./src/pages/
 ```
